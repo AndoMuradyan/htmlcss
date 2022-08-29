@@ -1,0 +1,137 @@
+body{
+    background-image: url("../img/b_body.jpg");
+}
+.home {
+    display: flex;
+    justify-content: center;
+}
+
+
+.line {
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+}
+
+.main-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-block img {
+    margin: 15px;
+}
+.lorem-4 {
+
+    float: right;
+    width: 70%;
+
+}
+
+
+.lorem {
+    display: flex;
+    justify-content: center;
+}
+
+.lorem div {
+    width: 261px;
+    margin: 5px;
+}
+
+.lorem-5 {
+    float: right;
+    width: 70%;
+}
+.lorem-6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lorem-7{
+    float: right;
+    width: 85%;
+
+}
+.lorem-8{
+    float: right;
+    width: 88%;
+}
+.lorem div {
+
+    width: 261px;
+    margin: 30px;
+}
+.lorem div.lorem-8 {
+    width: 385px;
+    margin: 30px;
+}
+.lorem-9{
+    float: right;
+    width: 68%;
+    margin-block:30px ;
+}
+.lorem-10{
+    float: right;
+    width: 45%;
+}
+.lorem-10{
+    float: right;
+    width: 68%;
+    margin-block:30px ;
+}
+.lorem-11{
+    float: right;
+    width: 53%;
+}
+
+.lorem-15 {
+    margin: 0 auto;
+}
+
+
+.lorem-13{
+    width: 46%;
+    margin: auto;
+    display: flex;
+}
+
+.lorem-14{
+    margin: auto;
+    width: 200px;
+    padding-bottom: 70px;
+}
+.lorem-12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lorem-16{
+    float: right;
+    width: 40%;
+}
+.lorem-17{
+    margin: auto;
+    width: 40%;
+    padding-bottom: 80px;
+    /*margin-top: 10px;*/
+
+}
+.lorem-19{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.lorem-19 div{
+    margin: 15px;
+}
+.lorem-22{
+    float: right;
+    width: 35%;
+}
